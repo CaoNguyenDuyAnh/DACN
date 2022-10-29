@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./assets/css/base.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+</head>
+<body>
+    <div class="app">
+        <header class="header">
+            <div class="grid">
+                <nav class="header__navbar">
+                    <ul class="header__navbar-list">
+                        <li><a href="./main.html">Trang chủ</a></li>
+                        <li><a href="#">Quản lý đơn hàng</a></li>
+                        <li><a href="#">Quản lý sản phẩm</a></li>
+                        <li><a href="#">Quản lý khách hàng</a></li>
+                    </ul>
+                    <div class="header__user">
+                        <i class="far fa-user-circle header__user-icon"></i>
+                        <div class="header__user-sign">
+                            <a href="" class="header__user-signin">Sign in</a>
+                            <p>Account</p>
+                        </div>
+                    </div>
+                </nav>
+
+                <div class="header-with-search">
+                    <img src="./assets/img/logo.png" alt="" class="header-logo">
+                    <div class="header__search">
+                        <input type="text" class="header__search-input" placeholder="Nhập để tìm kiếm sản phẩm">
+                        <button class="header__search-btn">
+                            <i class="header__search-btn-icon fas fa-search"></i>
+                        </button>
+                    </div>
+                    <div class="header__cart">
+                        <a class="header__cart-wrap">
+                            <i class="header__cart-icon fas fa-shopping-cart"></i>
+                        </a>
+
+                        
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="app__container">
+            <div class="grid">
+                <div class="grid__row">
+                    <div class="grid__full-width">
+                        <h1 class="order-heading">DANH SÁCH ĐƠN HÀNG</h1>
+                        <table class="order-table">
+                            <thead>
+                                <tr>
+                                    <th>MÃ ĐƠN</th>
+                                    <th>KHÁCH HÀNG</th>
+                                    <th>NGÀY ĐẶT</th>
+                                    <th>TỔNG CỘNG</th>
+                                    <th>HÌNH THỨC THANH TOÁN</th>
+                                    <th>GIAO HÀNG</th>
+                                    <th>CHỈNH SỬA</th>
+                                </tr>
+                            </thead>
+                            <tbody class="orders-render">
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./orders.js"></script>
+</body>
+</html>

@@ -1,204 +1,254 @@
 {
-    "product": [
-        {
-            "id" : 1,
-            "name" : "Laptop Acer Nitro 5 AN515-55-70AX",
-            "description" : "Acer Nitro 5 AN515-55-70AX (NH.Q7NSV.001) là chiếc laptop gaming có cấu hình mạnh mẽ với Chip Intel đa nhân hiệu năng cao và card đồ họa rời NVIDIA thế hệ mới nhất, hỗ trợ nâng cấp bộ nhớ ram lên đến 32GB, khả năng lưu trữ siêu khủng với hai khe SSD PCIe và ổ cứng HDD truyền thống.",
-            "price" : "29.990.000₫",
-            "priceSale" : "28.490.000₫",
-            "image" : "https://lh3.googleusercontent.com/FPVLsfy8AOkj2wb3s6Qeb4OhfsFbHX4IkZ516gFugr48FzCi1KPPweWdcvw8z5uAmpDPrM7TaHyuZFPDh8iz=w500-rw"
-        },
-        {
-            "id" : 2,
-            "name" : "Laptop ACER Swift 5 SF514-55T-51NZ NX.HX9SV.002",
-            "description" : "Laptop Acer Swift 5 SF514-55T-51NZ (NX.HX9SV.002) (i5-1135G7) (Vàng) sở hữu thiết kế mỏng nhẹ và tinh tế đến từng chi tiết nhỏ. Màn hình cảm ứng full HD, kèm theo đó là dung lượng lưu trữ 512GB SSD cực khủng. Đây chính là một sản phẩm dành cho những người làm việc, học tập ở một cường độ và hiệu suất cao.",
-            "price" : "28.990.000₫",
-            "priceSale" : "26.990.000₫",
-            "image" : "https://lh3.googleusercontent.com/HJ3ZckLJxw8uUWs2ZisqWryibLyRosmynmIidAWZyz5D0f8Ifb2IAqWdM8rrhze5XmAPamOsxkPjS9LzMYnMFWVaF8_nHc0=w500-rw"
-        },
-        {
-            "id" : 3,
-            "name" : "Laptop Dell Vostro 14 3405 V4R53500U003W",
-            "description" : "Máy tính xách tay/ Laptop Dell Vostro 14 3405 (3405-V4R53500U003W) là chiếc laptop được cải tiến về hiệu năng khi được trang bị chip AMD Ryzen thế hệ thứ 3. Với trọng lượng nhẹ chỉ 1.7 kg, chiếc laptop cao cấp của Dell nhất định sẽ là người bạn đồng hành tuyệt vời, phù hợp với những ai có nhu cầu di chuyển thường xuyên. ",
-            "price" : "19.490.000₫",
-            "priceSale" : "17.490.000₫",
-            "image" : "https://lh3.googleusercontent.com/l3ISLFn1M4iwawX4PsB3VSbDXYoMEw5KqNh7v_2WxN-rIyEcLMs3QL567GTtSglEpS-tVT8JXq8776S1xfSw45AGdE_CwpDr=w500-rw"
-        },
-        {
-            "id" : 4,
-            "name" : "Laptop HP 240 G8 3D0E1PA",
-            "description" : " ",
-            "price" : "16.999.000₫",
-            "priceSale" : "14.049.000₫",
-            "image" : "https://lh3.googleusercontent.com/GjM6yUlY_BcZkDeJk7Mij-tTxsVgHbWDlHDFVspBIr0nJ8WM0qOcdtvjaRlJz2JgOjuqzerdZEdeX5aVr3ufAi-rJd4Q37ZV=w230-rw"
-        },
-        {
-            "id" : 5,
-            "name" : "MacBook Air 2020 MGNA3SA/A",
-            "description" : " ",
-            "price" : "33.990.000₫",
-            "priceSale" : "31.119.000₫",
-            "image" : "https://lh3.googleusercontent.com/YvbLR5xADVTTWcGf_4GNDCfFdXZlwldcxn0L9Fm2WQoOmjimmaKV6d9hIehVgfGN9tpnixKBRYOsp1puN9ceiHhiH6oGYP3c-g=w500-rw"
-        },
-        {
-            "id" : 6,
-            "name" : "MacBook Pro 2020 MYD82SA/A",
-            "description" : " ",
-            "price" : "36.990.000₫",
-            "priceSale" : "34.990.000₫",
-            "image" : "https://lh3.googleusercontent.com/6iW6tc0lHp4paCYznq-gC5mEXEGMSBmrSq2I4MaXdPne5XWQI4l8m-bGRVCRFH94d4PEqtUIdH3FERr-VNDWaT2k9qcZ5Ey_PQ=w500-rw"
-        },
-        {
-            "id" : 7,
-            "name" : "Máy tính bảng Apple iPad Pro (2021) 12.9inch Wifi 512GB",
-            "description" : " ",
-            "price" : "33.990.000₫",
-            "priceSale" : "30.990.000₫",
-            "image" : "https://lh3.googleusercontent.com/9CsPEXfAKyQ9Nii35R_GGR8IR-NP_zjPGjJXxWmjYNYbq8UeKVdnYExs0CsP9RsD3wlAriBSXWPblcrrg2-_ua7txpeXmbFx=w500-rw"
-        },
-        {
-            "id" : 8,
-            "name" : "iPad Air 4 2020 10.9 inch Wifi 256GB Bạc",
-            "description" : " ",
-            "price" : "21.990.000₫",
-            "priceSale" : "18.649.000₫",
-            "image" : "https://lh3.googleusercontent.com/smmR1bKCc_H9mMVc_kzb84LLGcEzRReHVlZDANNeYWtberr9vTMoU7g_JwjZh8BBKGuS_HVssK5s3qW70oviCbX6yNQUk_OI=w230-rw"
-        },
-        {
-            "id" : 9,
-            "name" : "iPad Air 4 2020 10.9 inch Wifi 4G 64GB Xanh Lá",
-            "description" : " ",
-            "price" : "20.990.000₫",
-            "priceSale" : "18.049.000₫",
-            "image" : "https://lh3.googleusercontent.com/pICW19K7X2jOUqWVm74CQeuf_E3vlEgMrLBfRah-iTcPmOOgbDyTFZc9s8eUNOQeOYccpjnvhgXi3dLwag=w500-rw"
-        },
-        {
-            "id" : 10,
-            "name" : "iPad Pro 2021 12.9 inch Wifi 4G 128GB Bạc",
-            "description" : " ",
-            "price" : "34.990.000₫",
-            "priceSale" : "29.290.000₫",
-            "image" : "https://lh3.googleusercontent.com/7qOONhdqXn6SfIz5g-PGU0A9noND2-03R7G7LdiGRrkjBnZJQl9iDecGFHxsliOYvCH0ZIt8zfsN50Huv7BJuaMtlhUiVL_X=w500-rw"
-        },
-        {
-            "id" : 11,
-            "name" : "Smart Tivi Samsung UHD 4K 43 inch UA43AU7002KXXV",
-            "description" : " ",
-            "price" : "12.900.000₫",
-            "priceSale" : "8.490.000₫",
-            "image" : "https://lh3.googleusercontent.com/Ar38jXdGKsjEF35mHBr7eG4hxF35c1ZtCAZeoHkqzYf5E3AOIPAuvEtIQ_LmQnQF87kbeZoEOfoFO8OXi-3gc5B93hLAOfaw=w500-rw"
-        },
-        {
-            "id" : 12,
-            "name" : "Smart Tivi Samsung FHD The Frame MINI 32 inch 32LS03BB",
-            "description" : " ",
-            "price" : "25.900.000₫",
-            "priceSale" : "13.490.000₫",
-            "image" : "https://lh3.googleusercontent.com/47a29uOhRwqVUBkgEw1cpeZhsOvcrgmBND_pQUU48oWu4tF7Bfu2ek2cEeD6327ut3Oh2gO0Tsm9bW_Z0y9j1wpHu5bb9qk=w500-rw"
-        },
-        {
-            "id" : 13,
-            "name" : "Smart Tivi Samsung UHD 4K 43 inch UA43AU7002KXXV",
-            "description" : " ",
-            "price" : "22.900.000₫",
-            "priceSale" : "12.990.000₫",
-            "image" : "https://lh3.googleusercontent.com/gpzK1Pf7F92fobIZTK0_CXowkfHD6h5Lma000ZH5JuYZ-0IbecOuwjcSltrQ2JK7uisniHA5KfO4-Cjq9u2sjsn2CU4pvQk=w500-rw"
-        },
-        {
-            "id" : 14,
-            "name" : "Smart Tivi Samsung 4K The Sero 43 inch 43LS05BA",
-            "description" : " ",
-            "price" : "35.900.000₫",
-            "priceSale" : "24.490.000₫",
-            "image" : "https://lh3.googleusercontent.com/iFiy3g97mRcZMCH6KkhiQePld7YsItTymOrLWj76jbude-8VQJyLbkHek9dj7nHgdOvCWTi_HUa0mNA-CkP_ah1a28616bC9-Q=w500-rw"
-        },
-        {
-            "id" : 15,
-            "name" : "Smart Tivi Samsung 4K The Serif 50 inch 50LS01BA",
-            "description" : " ",
-            "price" : "30.900.000₫",
-            "priceSale" : "18.990.000₫",
-            "image" : "https://lh3.googleusercontent.com/JqIO7UCTLUQvBwFA4iwQFzFEpCk5mOEG3XqJjLrxM2PhX7bUiG1aXpZ7p2nwKh5Dpbb5EIUzvg8rM6_mgdK7MArBGBFpV8c=w500-rw"
-        },
-        {
-            "id" : 16,
-            "name" : "Tay cầm Game pad Logitech F310 (Xanh dương)",
-            "description" : " ",
-            "price" : "550.000₫",
-            "priceSale" : "479.000 ₫",
-            "image" : "https://lh3.googleusercontent.com/Rg3LMqOad06aFnFAoNKYuTGmsnqpzYS-nhHfzSWUWYRm5Bf75sz6qkolp-m5eYKkNmgzexR2Xm0CJfKngnbbQE-p8oLI9cJO=w230-rw"
-        },
-        {
-            "id" : 17,
-            "name" : "Tay cầm Game pad Logitech F710 (Bạc)",
-            "description" : " ",
-            "price" : "1.120.000₫",
-            "priceSale" : "929.000₫",
-            "image" : "https://lh3.googleusercontent.com/2ZDNuC90CHTda0kEEuaPbzSSRicKrS1aqfmhjukH6QTpO7gM2_9P2GWkbK4uvHRB6Rnt7l9UkC44FKLhJL8oAzFtErfIWpLV=w230-rw"
-        },
-        {
-            "id" : 18,
-            "name" : "Tay cầm Game Pad Rapoo V600 (Đen)",
-            "description" : " ",
-            "price" : "590.000₫",
-            "priceSale" : "430.000₫",
-            "image" : "https://lh3.googleusercontent.com/ey90zRm8THsSCTN2B3V7e728cENgzHRxkyU4dVhPiyCoiW0hLeRxuBPapKVU2Bhai4R-b7rsdKGQt_W7bGc=w230-rw"
-        },
-        {
-            "id" : 19,
-            "name" : "Tay cầm gamepad không dây MSI GC30 V2 (Đen)",
-            "description" : " ",
-            "price" : "990.000₫",
-            "priceSale" : "1.090.000₫",
-            "image" : "https://lh3.googleusercontent.com/88INdaBb_iFH6AGeovGrvKu0Tmxzl62_DJGDPssaAIz8GS5Vrnu3C5iIP3ibUEt0-GP6K0r269Sieeh9M4tAz6xJkXqiPJzhyA=w230-rw"
-        },
-        {
-            "id" : 20,
-            "name" : "Tay cầm Gamepad không dây Xbox Wireless Controller + USB-C (Đen)",
-            "description" : " ",
-            "price" : "1.790.000₫",
-            "priceSale" : "1.890.000₫",
-            "image" : "https://lh3.googleusercontent.com/zh0Y6s21KvdBJoEHsZUPjpRgobjP1EcGLRSilgZoXaVT-m5icJccWbayB8RYhaTcG0SWPxpsS3aIwxvNldtJFO5qFM5vfBdm1Q=w230-rw"
-        },
-        {
-            "id" : 21,
-            "name" : "Tai nghe Zidli ZH17 (7.1)",
-            "description" : " ",
-            "price" : "",
-            "priceSale" : "490.000₫",
-            "image" : "https://lh3.googleusercontent.com/sobxtlWRMI6cwmk3tOa3iaH0K8pJQP-EfoROJxTazZu66nlGg8_SMljuXe9Y5tDS9sm89OgIWFpccx353tc=w230-rw"
-        },
-        {
-            "id" : 22,
-            "name" : "Tai nghe SoundMax AH315",
-            "description" : " ",
-            "price" : "",
-            "priceSale" : "315.000₫",
-            "image" : "https://lh3.googleusercontent.com/aCIy-fDjBJ8M3Z9UScpU25Cvt61bmydZuzqFyTMSKulVI1rUjiWSsF9SHx6qwxwt0rcfQ6hk-tta4lFaSw=w230-rw"
-        },
-        {
-            "id" : 23,
-            "name" : "Tai nghe Over-ear Dareu EH925 (Đen)",
-            "description" : " ",
-            "price" : "",
-            "priceSale" : "990.000₫",
-            "image" : "https://lh3.googleusercontent.com/VR2UpofXgXRwC2EElKTNVUs2VVPAymLonCiiiEyiLPM3W8VE5pFqq4h5LRR6Od3Km6RgQ1laco8WGwm7khU=w230-rw"
-        },
-        {
-            "id" : 24,
-            "name" : "Tai nghe HyperX Cloud Earbuds (4P5J5AA) (Đỏ)",
-            "description" : " ",
-            "price" : "990.000₫",
-            "priceSale" : "840.000₫",
-            "image" : "https://lh3.googleusercontent.com/iTcohlPAby52SJ4rRltqEoAAC599RK7_m_uPKaKqZUNZHp3b8iXJUj1fGSkGi3Q24rOlvfbfwt7dOkCed3U=w230-rw"
-        },
-        {
-            "id" : 25,
-            "name" : "Tai nghe Bluetooth True Wireless Soundpeats TrueAir 2 (Đen)",
-            "description" : " ",
-            "price" : "1.500.000₫",
-            "priceSale" : "779.000₫",
-            "image" : "https://lh3.googleusercontent.com/-SkCh3ljjMri4bSdgFBVGwYRoldW3bFQMcts9dBMUP0_cXMpDwPGNGHw-tBsEBhNe43z2vIFc8EOBHLvxpef9-9ideHK0Yvr=w230-rw"
-        }
-    ]
+  "product": [
+    {
+      "id": 1,
+      "name": "Laptop Acer Nitro 5 AN515-55-70AX",
+      "description": "Acer Nitro 5 AN515-55-70AX (NH.Q7NSV.001) là chiếc laptop gaming có cấu hình mạnh mẽ với Chip Intel đa nhân hiệu năng cao và card đồ họa rời NVIDIA thế hệ mới nhất, hỗ trợ nâng cấp bộ nhớ ram lên đến 32GB, khả năng lưu trữ siêu khủng với hai khe SSD PCIe và ổ cứng HDD truyền thống.",
+      "price": "29.990.000₫",
+      "priceSale": "28.490.000₫",
+      "image": "https://lh3.googleusercontent.com/FPVLsfy8AOkj2wb3s6Qeb4OhfsFbHX4IkZ516gFugr48FzCi1KPPweWdcvw8z5uAmpDPrM7TaHyuZFPDh8iz=w500-rw"
+    },
+    {
+      "id": 2,
+      "name": "Laptop ACER Swift 5 SF514-55T-51NZ NX.HX9SV.002",
+      "description": "Laptop Acer Swift 5 SF514-55T-51NZ (NX.HX9SV.002) (i5-1135G7) (Vàng) sở hữu thiết kế mỏng nhẹ và tinh tế đến từng chi tiết nhỏ. Màn hình cảm ứng full HD, kèm theo đó là dung lượng lưu trữ 512GB SSD cực khủng. Đây chính là một sản phẩm dành cho những người làm việc, học tập ở một cường độ và hiệu suất cao.",
+      "price": "28.990.000₫",
+      "priceSale": "26.990.000₫",
+      "image": "https://lh3.googleusercontent.com/HJ3ZckLJxw8uUWs2ZisqWryibLyRosmynmIidAWZyz5D0f8Ifb2IAqWdM8rrhze5XmAPamOsxkPjS9LzMYnMFWVaF8_nHc0=w500-rw"
+    },
+    {
+      "id": 3,
+      "name": "Laptop Dell Vostro 14 3405 V4R53500U003W",
+      "description": "Máy tính xách tay/ Laptop Dell Vostro 14 3405 (3405-V4R53500U003W) là chiếc laptop được cải tiến về hiệu năng khi được trang bị chip AMD Ryzen thế hệ thứ 3. Với trọng lượng nhẹ chỉ 1.7 kg, chiếc laptop cao cấp của Dell nhất định sẽ là người bạn đồng hành tuyệt vời, phù hợp với những ai có nhu cầu di chuyển thường xuyên. ",
+      "price": "19.490.000₫",
+      "priceSale": "17.490.000₫",
+      "image": "https://lh3.googleusercontent.com/l3ISLFn1M4iwawX4PsB3VSbDXYoMEw5KqNh7v_2WxN-rIyEcLMs3QL567GTtSglEpS-tVT8JXq8776S1xfSw45AGdE_CwpDr=w500-rw"
+    },
+    {
+      "id": 4,
+      "name": "Laptop HP 240 G8 3D0E1PA",
+      "description": " ",
+      "price": "16.999.000₫",
+      "priceSale": "14.049.000₫",
+      "image": "https://lh3.googleusercontent.com/GjM6yUlY_BcZkDeJk7Mij-tTxsVgHbWDlHDFVspBIr0nJ8WM0qOcdtvjaRlJz2JgOjuqzerdZEdeX5aVr3ufAi-rJd4Q37ZV=w230-rw"
+    },
+    {
+      "id": 5,
+      "name": "MacBook Air 2020 MGNA3SA/A",
+      "description": " ",
+      "price": "33.990.000₫",
+      "priceSale": "31.119.000₫",
+      "image": "https://lh3.googleusercontent.com/YvbLR5xADVTTWcGf_4GNDCfFdXZlwldcxn0L9Fm2WQoOmjimmaKV6d9hIehVgfGN9tpnixKBRYOsp1puN9ceiHhiH6oGYP3c-g=w500-rw"
+    },
+    {
+      "id": 6,
+      "name": "MacBook Pro 2020 MYD82SA/A",
+      "description": " ",
+      "price": "36.990.000₫",
+      "priceSale": "34.990.000₫",
+      "image": "https://lh3.googleusercontent.com/6iW6tc0lHp4paCYznq-gC5mEXEGMSBmrSq2I4MaXdPne5XWQI4l8m-bGRVCRFH94d4PEqtUIdH3FERr-VNDWaT2k9qcZ5Ey_PQ=w500-rw"
+    },
+    {
+      "id": 7,
+      "name": "Máy tính bảng Apple iPad Pro (2021) 12.9inch Wifi 512GB",
+      "description": " ",
+      "price": "33.990.000₫",
+      "priceSale": "30.990.000₫",
+      "image": "https://lh3.googleusercontent.com/9CsPEXfAKyQ9Nii35R_GGR8IR-NP_zjPGjJXxWmjYNYbq8UeKVdnYExs0CsP9RsD3wlAriBSXWPblcrrg2-_ua7txpeXmbFx=w500-rw"
+    },
+    {
+      "id": 8,
+      "name": "iPad Air 4 2020 10.9 inch Wifi 256GB Bạc",
+      "description": " ",
+      "price": "21.990.000₫",
+      "priceSale": "18.649.000₫",
+      "image": "https://lh3.googleusercontent.com/smmR1bKCc_H9mMVc_kzb84LLGcEzRReHVlZDANNeYWtberr9vTMoU7g_JwjZh8BBKGuS_HVssK5s3qW70oviCbX6yNQUk_OI=w230-rw"
+    },
+    {
+      "id": 9,
+      "name": "iPad Air 4 2020 10.9 inch Wifi 4G 64GB Xanh Lá",
+      "description": " ",
+      "price": "20.990.000₫",
+      "priceSale": "18.049.000₫",
+      "image": "https://lh3.googleusercontent.com/pICW19K7X2jOUqWVm74CQeuf_E3vlEgMrLBfRah-iTcPmOOgbDyTFZc9s8eUNOQeOYccpjnvhgXi3dLwag=w500-rw"
+    },
+    {
+      "id": 10,
+      "name": "iPad Pro 2021 12.9 inch Wifi 4G 128GB Bạc",
+      "description": " ",
+      "price": "34.990.000₫",
+      "priceSale": "29.290.000₫",
+      "image": "https://lh3.googleusercontent.com/7qOONhdqXn6SfIz5g-PGU0A9noND2-03R7G7LdiGRrkjBnZJQl9iDecGFHxsliOYvCH0ZIt8zfsN50Huv7BJuaMtlhUiVL_X=w500-rw"
+    },
+    {
+      "id": 11,
+      "name": "Smart Tivi Samsung UHD 4K 43 inch UA43AU7002KXXV",
+      "description": " ",
+      "price": "12.900.000₫",
+      "priceSale": "8.490.000₫",
+      "image": "https://lh3.googleusercontent.com/Ar38jXdGKsjEF35mHBr7eG4hxF35c1ZtCAZeoHkqzYf5E3AOIPAuvEtIQ_LmQnQF87kbeZoEOfoFO8OXi-3gc5B93hLAOfaw=w500-rw"
+    },
+    {
+      "id": 12,
+      "name": "Smart Tivi Samsung FHD The Frame MINI 32 inch 32LS03BB",
+      "description": " ",
+      "price": "25.900.000₫",
+      "priceSale": "13.490.000₫",
+      "image": "https://lh3.googleusercontent.com/47a29uOhRwqVUBkgEw1cpeZhsOvcrgmBND_pQUU48oWu4tF7Bfu2ek2cEeD6327ut3Oh2gO0Tsm9bW_Z0y9j1wpHu5bb9qk=w500-rw"
+    },
+    {
+      "id": 13,
+      "name": "Smart Tivi Samsung UHD 4K 43 inch UA43AU7002KXXV",
+      "description": " ",
+      "price": "22.900.000₫",
+      "priceSale": "12.990.000₫",
+      "image": "https://lh3.googleusercontent.com/gpzK1Pf7F92fobIZTK0_CXowkfHD6h5Lma000ZH5JuYZ-0IbecOuwjcSltrQ2JK7uisniHA5KfO4-Cjq9u2sjsn2CU4pvQk=w500-rw"
+    },
+    {
+      "id": 14,
+      "name": "Smart Tivi Samsung 4K The Sero 43 inch 43LS05BA",
+      "description": " ",
+      "price": "35.900.000₫",
+      "priceSale": "24.490.000₫",
+      "image": "https://lh3.googleusercontent.com/iFiy3g97mRcZMCH6KkhiQePld7YsItTymOrLWj76jbude-8VQJyLbkHek9dj7nHgdOvCWTi_HUa0mNA-CkP_ah1a28616bC9-Q=w500-rw"
+    },
+    {
+      "id": 15,
+      "name": "Smart Tivi Samsung 4K The Serif 50 inch 50LS01BA",
+      "description": " ",
+      "price": "30.900.000₫",
+      "priceSale": "18.990.000₫",
+      "image": "https://lh3.googleusercontent.com/JqIO7UCTLUQvBwFA4iwQFzFEpCk5mOEG3XqJjLrxM2PhX7bUiG1aXpZ7p2nwKh5Dpbb5EIUzvg8rM6_mgdK7MArBGBFpV8c=w500-rw"
+    },
+    {
+      "id": 16,
+      "name": "Tay cầm Game pad Logitech F310 (Xanh dương)",
+      "description": " ",
+      "price": "550.000₫",
+      "priceSale": "479.000 ₫",
+      "image": "https://lh3.googleusercontent.com/Rg3LMqOad06aFnFAoNKYuTGmsnqpzYS-nhHfzSWUWYRm5Bf75sz6qkolp-m5eYKkNmgzexR2Xm0CJfKngnbbQE-p8oLI9cJO=w230-rw"
+    },
+    {
+      "id": 17,
+      "name": "Tay cầm Game pad Logitech F710 (Bạc)",
+      "description": " ",
+      "price": "1.120.000₫",
+      "priceSale": "929.000₫",
+      "image": "https://lh3.googleusercontent.com/2ZDNuC90CHTda0kEEuaPbzSSRicKrS1aqfmhjukH6QTpO7gM2_9P2GWkbK4uvHRB6Rnt7l9UkC44FKLhJL8oAzFtErfIWpLV=w230-rw"
+    },
+    {
+      "id": 18,
+      "name": "Tay cầm Game Pad Rapoo V600 (Đen)",
+      "description": " ",
+      "price": "590.000₫",
+      "priceSale": "430.000₫",
+      "image": "https://lh3.googleusercontent.com/ey90zRm8THsSCTN2B3V7e728cENgzHRxkyU4dVhPiyCoiW0hLeRxuBPapKVU2Bhai4R-b7rsdKGQt_W7bGc=w230-rw"
+    },
+    {
+      "id": 19,
+      "name": "Tay cầm gamepad không dây MSI GC30 V2 (Đen)",
+      "description": " ",
+      "price": "990.000₫",
+      "priceSale": "1.090.000₫",
+      "image": "https://lh3.googleusercontent.com/88INdaBb_iFH6AGeovGrvKu0Tmxzl62_DJGDPssaAIz8GS5Vrnu3C5iIP3ibUEt0-GP6K0r269Sieeh9M4tAz6xJkXqiPJzhyA=w230-rw"
+    },
+    {
+      "id": 20,
+      "name": "Tay cầm Gamepad không dây Xbox Wireless Controller + USB-C (Đen)",
+      "description": " ",
+      "price": "1.790.000₫",
+      "priceSale": "1.890.000₫",
+      "image": "https://lh3.googleusercontent.com/zh0Y6s21KvdBJoEHsZUPjpRgobjP1EcGLRSilgZoXaVT-m5icJccWbayB8RYhaTcG0SWPxpsS3aIwxvNldtJFO5qFM5vfBdm1Q=w230-rw"
+    },
+    {
+      "id": 21,
+      "name": "Tai nghe Zidli ZH17 (7.1)",
+      "description": " ",
+      "price": "",
+      "priceSale": "490.000₫",
+      "image": "https://lh3.googleusercontent.com/sobxtlWRMI6cwmk3tOa3iaH0K8pJQP-EfoROJxTazZu66nlGg8_SMljuXe9Y5tDS9sm89OgIWFpccx353tc=w230-rw"
+    },
+    {
+      "id": 22,
+      "name": "Tai nghe SoundMax AH315",
+      "description": " ",
+      "price": "",
+      "priceSale": "315.000₫",
+      "image": "https://lh3.googleusercontent.com/aCIy-fDjBJ8M3Z9UScpU25Cvt61bmydZuzqFyTMSKulVI1rUjiWSsF9SHx6qwxwt0rcfQ6hk-tta4lFaSw=w230-rw"
+    },
+    {
+      "id": 23,
+      "name": "Tai nghe Over-ear Dareu EH925 (Đen)",
+      "description": " ",
+      "price": "",
+      "priceSale": "990.000₫",
+      "image": "https://lh3.googleusercontent.com/VR2UpofXgXRwC2EElKTNVUs2VVPAymLonCiiiEyiLPM3W8VE5pFqq4h5LRR6Od3Km6RgQ1laco8WGwm7khU=w230-rw"
+    },
+    {
+      "id": 24,
+      "name": "Tai nghe HyperX Cloud Earbuds (4P5J5AA) (Đỏ)",
+      "description": " ",
+      "price": "990.000₫",
+      "priceSale": "840.000₫",
+      "image": "https://lh3.googleusercontent.com/iTcohlPAby52SJ4rRltqEoAAC599RK7_m_uPKaKqZUNZHp3b8iXJUj1fGSkGi3Q24rOlvfbfwt7dOkCed3U=w230-rw"
+    },
+    {
+      "id": 25,
+      "name": "Tai nghe Bluetooth True Wireless Soundpeats TrueAir 2 (Đen)",
+      "description": " ",
+      "price": "1.500.000₫",
+      "priceSale": "779.000₫",
+      "image": "https://lh3.googleusercontent.com/-SkCh3ljjMri4bSdgFBVGwYRoldW3bFQMcts9dBMUP0_cXMpDwPGNGHw-tBsEBhNe43z2vIFc8EOBHLvxpef9-9ideHK0Yvr=w230-rw"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Admin",
+      "email": "admin@example.com",
+      "password": 123456,
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "fullname": "user",
+      "email": "user@example.com",
+      "password": 123456
+    },
+    {
+      "fullname": "Cao Nguyen Duy Anh",
+      "email": "anhduynguyencao@gmail.com",
+      "SĐT": "1234567890",
+      "password": "123123",
+      "password_confirmation": "123123",
+      "address": "123mnb",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "fullname": "Admin",
+      "dateOrder": "28/10/2022",
+      "total": "16.000.000đ",
+      "pay": "Thanh toán khi nhận hàng",
+      "ship": "Đang giao"
+    },
+    {
+      "id": 2,
+      "fullname": "Duy Anh",
+      "dateOrder": "24/10/2022",
+      "total": "12.000.000đ",
+      "pay": "Thanh toán khi nhận hàng",
+      "ship": "Đang giao"
+    },
+    {
+      "id": 3,
+      "fullname": "user",
+      "dateOrder": "25/10/2022",
+      "total": "14.000.000đ",
+      "pay": "Thanh toán khi nhận hàng",
+      "ship": "Đang giao"
+    }
+  ]
 }
