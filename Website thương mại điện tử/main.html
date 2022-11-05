@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="./assets/css/base.css">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <script src="./app.js"></script>
+
 </head>
 <body>
     <div class="app">
@@ -45,10 +47,48 @@
                         </button>
                     </div>
                     <div class="header__cart">
-                        <a class="header__cart-wrap">
+                        <div class="header__cart-wrap">
                             <i class="header__cart-icon fas fa-shopping-cart"></i>
-                        </a>
-
+                            <div class="header__cart-list">
+                                <!-- No Cart: header__cart-list--no-cart -->
+                                <img src="./assets/img/no-cart.png" alt="" class="header__cart-no-cart-img">
+                                <p class="header__cart-list-no-cart-msg">
+                                    Chưa có sản phẩm
+                                </p>
+                                <h4 class="header__cart-heading">Sản phẩm đã thêm</h4>
+                                <ul class="header__cart-list-item">
+                                    <li class="header__cart-item">
+                                        <img src="https://lh3.googleusercontent.com/-SkCh3ljjMri4bSdgFBVGwYRoldW3bFQMcts9dBMUP0_cXMpDwPGNGHw-tBsEBhNe43z2vIFc8EOBHLvxpef9-9ideHK0Yvr=w230-rw" alt="" class="header__cart-img">
+                                        <div class="header__cart-item-info">
+                                            <div class="header__cart-item-head">
+                                                <h5 class="header__cart-item-name">Laptop ACER Swift 5 SF514-55T-51NZ NX.HX9SV.002</h5>
+                                                <span class="header__cart-item-price">1.000.000đ</span>
+                                            </div>
+                                            <div class="header__cart-item-body">
+                                                <span class="header__cart-item-remove">Xóa</span>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="header__cart-item">
+                                        <img src="https://lh3.googleusercontent.com/-SkCh3ljjMri4bSdgFBVGwYRoldW3bFQMcts9dBMUP0_cXMpDwPGNGHw-tBsEBhNe43z2vIFc8EOBHLvxpef9-9ideHK0Yvr=w230-rw" alt="" class="header__cart-img">
+                                        <div class="header__cart-item-info">
+                                            <div class="header__cart-item-head">
+                                                <h5 class="header__cart-item-name">Laptop ACER Swift 5 SF514-55T-51NZ NX.HX9SV.002</h5>
+                                                <span class="header__cart-item-price">1.000.000đ</span>
+                                            </div>
+                                            <div class="header__cart-item-body">
+                                                <span class="header__cart-item-remove">Xóa</span>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="header__cart-pay">
+                                    <span class="header__cart-pay-head">Tổng tiền sản phẩm</span>
+                                    <span class="header__cart-pay-total">30.000.000</span>
+                                </div>
+                                <button class="header__cart-btn">Xem giỏ hàng</button>
+                            </div>
+                        </div>
                         
                     </div>
                 </div>
@@ -370,7 +410,8 @@
             </div>
         </footer>
     </div>
-    <script src="./app.js"></script>
+
+    <script type="module" src="./app.js"></script>
 </body>
 
 </html>

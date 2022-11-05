@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/base.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+</head>
+<body>
+    <div class="app">
+        <header class="header">
+            <div class="grid">
+                <nav class="header__navbar">
+                    <ul class="header__navbar-list">
+                        <li><a href="./main.html">Trang chủ</a></li>
+                        <li><a href="./orders.html">Quản lý đơn hàng</a></li>
+                        <li><a href="./product.html">Quản lý sản phẩm</a></li>
+                        <li><a href="./users.html">Quản lý khách hàng</a></li>
+                    </ul>
+                    <div class="header__user">
+                        <i class="far fa-user-circle header__user-icon"></i>
+                        <div class="header__user-sign">
+                            <a href="" class="header__user-signin">Sign in</a>
+                            <p>Account</p>
+                        </div>
+                    </div>
+                </nav>
+
+                <div class="header-with-search">
+                    <img src="/assets/img/logo.png" alt="" class="header-logo">
+                    <div class="header__cart" style="margin-left: auto;">
+                        <a class="header__cart-wrap">
+                            <i class="header__cart-icon fas fa-shopping-cart"></i>
+                        </a>
+
+                        
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="app__container">
+            <div class="grid">
+                <div class="grid__row">
+                    <div class="grid__full-width">
+                        <h1 class="order-heading">DANH SÁCH SẢN PHẨM</h1>
+                        <button class="create-btn">Thêm mới</button>
+                        <table class="order-table">
+                            <thead>
+                                <tr>
+                                    <th>MÃ SẢN PHẨM</th>
+                                    <th>TÊN SẢN PHẨM</th>
+                                    <th>HÌNH ẢNH</th>
+                                    <th>GIÁ</th>
+                                    <th>GIÁ SALE</th>
+                                    <th>THƯƠNG HIỆU</th>
+                                    <th>CHỈNH SỬA</th>
+                                </tr>
+                            </thead>
+                            <tbody class="orders-render">
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+
+        <div class="modal">
+            <div class="modal-container">
+                <div class="modal-close js-modal-close"><i class="fas fa-times"></i></div>
+                <header class="modal-header">
+                    SỬA THÔNG TIN SẢN PHẨM
+                </header>
+                <div class="modal-body">
+                    <label for="name-change" class="modal-label">Tên sản phẩm</label>
+                    <input type="text" class="modal-input" id="name-change">
+
+                    <label for="img-change" class="modal-label">Link ảnh</label>
+                    <input type="text" class="modal-input" id="img-change">
+
+                    <label for="price-change" class="modal-label">Giá</label>
+                    <input type="text" class="modal-input" id="price-change">
+                    
+                    <label for="priceSale-change" class="modal-label">Giá sale</label>
+                    <input type="text" class="modal-input" id="priceSale-change">
+                    
+                    <label for="brand-change" class="modal-label">Thương hiệu</label>
+                    <input type="text" class="modal-input" id="brand-change">
+                    <button id="Save-change" >Lưu thông tin</button>
+                </div>
+            </div>
+        </div>
+        <div class="modal-create">
+            <div class="modal-container">
+                <div class="modal-close js-modalCreate-close"><i class="fas fa-times"></i></div>
+                <header class="modal-header">
+                    THÊM SẢN PHẨM MỚI
+                </header>
+                <div class="modal-body">
+                    <label for="name-change" class="modal-label">Tên sản phẩm</label>
+                    <input type="text" class="modal-input" id="name-change">
+
+                    <label for="img-change" class="modal-label">Thêm ảnh</label>
+                    <form action="">
+                        <img src="" alt="" id="imageLoad" width="200" height="200">
+                        <input type="file" name ="" id="imageFile" onchange="chooseFile(this)" accept="image/gif, image/jpeg, image/png">
+                        <input type="text" class="modal-input" id="link-img">
+                    </form>
+
+                    <label for="price-change" class="modal-label">Giá</label>
+                    <input type="text" class="modal-input" id="price-change">
+                    
+                    <label for="priceSale-change" class="modal-label">Giá sale</label>
+                    <input type="text" class="modal-input" id="priceSale-change">
+                    
+                    <label for="brand-change" class="modal-label">Thương hiệu</label>
+                    <input type="text" class="modal-input" id="brand-change">
+                    <button id="Save-change" >Lưu thông tin</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="./product.js"></script>
+</body>
+</html>
